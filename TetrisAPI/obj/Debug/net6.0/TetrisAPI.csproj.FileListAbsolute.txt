@@ -1,0 +1,144 @@
+E:\TetrisAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\TetrisAPI\bin\Debug\net6.0\appsettings.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.exe
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.deps.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.runtimeconfig.json
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.dll
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.pdb
+E:\TetrisAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\TetrisAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\TetrisAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\TetrisAPI\bin\Debug\net6.0\EntityFramework.dll
+E:\TetrisAPI\bin\Debug\net6.0\Humanizer.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Web.Providers.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Web.Http.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TetrisAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\TetrisAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TetrisAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.AssemblyReference.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfoInputs.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfo.cs
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CoreCompileInputs.cache
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TetrisAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\TetrisAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\TetrisAPI\obj\Debug\net6.0\scopedcss\bundle\TetrisAPI.styles.css
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CopyComplete
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.dll
+E:\TetrisAPI\obj\Debug\net6.0\refint\TetrisAPI.dll
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.pdb
+E:\TetrisAPI\obj\Debug\net6.0\TetrisAPI.genruntimeconfig.cache
+E:\TetrisAPI\obj\Debug\net6.0\ref\TetrisAPI.dll
+E:\TetrisAPI\bin\Debug\net6.0\TetrisAPI.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.exe
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\TetrisAPI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Web.Providers.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\scopedcss\bundle\TetrisAPI.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\refint\TetrisAPI.dll
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\TetrisAPI.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\TetrisAPI\obj\Debug\net6.0\ref\TetrisAPI.dll

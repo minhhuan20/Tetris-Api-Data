@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "siVyncQsB4gzE4C8kRrltiUKLR94mlOLzI3bWswIxTE=",
+  "Source": "TetrisAPI",
+  "BasePath": "_content/TetrisAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TetrisAPI\\wwwroot",
+      "Source": "TetrisAPI",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\TetrisAPI\\wwwroot\\",
+      "BasePath": "_content/TetrisAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\TetrisAPI\\wwwroot\\index.html",
+      "SourceId": "TetrisAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\TetrisAPI\\wwwroot\\",
+      "BasePath": "_content/TetrisAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
